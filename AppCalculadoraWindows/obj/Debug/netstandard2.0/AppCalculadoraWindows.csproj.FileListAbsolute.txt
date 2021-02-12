@@ -1,0 +1,14 @@
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\bin\Debug\netstandard2.0\AppCalculadoraWindows.deps.json
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\bin\Debug\netstandard2.0\AppCalculadoraWindows.dll
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\bin\Debug\netstandard2.0\ref\AppCalculadoraWindows.dll
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\bin\Debug\netstandard2.0\AppCalculadoraWindows.pdb
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\AppCalculadoraWindows.csprojAssemblyReference.cache
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\AppCalculadoraWindows.AssemblyInfoInputs.cache
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\AppCalculadoraWindows.AssemblyInfo.cs
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\AppCalculadoraWindows.csproj.CoreCompileInputs.cache
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\AppCalculadoraWindows.dll
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\ref\AppCalculadoraWindows.dll
+C:\Users\Joatha\Desktop\AppCalculadoraWindows\AppCalculadoraWindows\AppCalculadoraWindows\obj\Debug\netstandard2.0\AppCalculadoraWindows.pdb
